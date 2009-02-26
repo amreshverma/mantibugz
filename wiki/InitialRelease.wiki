@@ -6,7 +6,7 @@ Just did the initial release and we just rushed this out so we could use it.
 
 It's fully functional but there are some things that could be improved.
 
-We used it AS-IS to import 500 Mantis tickets+ into our FogBugz installation.
+We used it AS-IS to import 500 Mantis tickets+ into our !FogBugz installation.
 
 = Running It =
 
