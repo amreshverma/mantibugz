@@ -26,6 +26,6 @@ Source code has some IntelliJ idiosyncrasies (need to convert .form files to pur
 
 No validation (i.e. for valid connections) when initiating import.
 
-Does not translate areas/categories, users, priorities, or versions on import, these get defaulted by FogBugz.
+Does not translate areas/categories, users, priorities, or versions on import, these get defaulted by !FogBugz.
 
 Does not import attachments.
