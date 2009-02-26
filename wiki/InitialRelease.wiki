@@ -10,7 +10,7 @@ We used it AS-IS to import 500 Mantis tickets+ into our !FogBugz installation.
 
 = Running It =
 
-Download the zip file from the Downloads area and unzip it to a folder. 
+[http://code.google.com/p/mantibugz/downloads/list Download] the zip file from the Downloads area and unzip it to a folder. 
 
 You should be able to execute the mantibugz.jar file inside the lib folder simply by clicking on it in most operating systems or you could try modifying and executing the run.sh file for your installation (i.e. rename it it to run.bat on Windows).
 
